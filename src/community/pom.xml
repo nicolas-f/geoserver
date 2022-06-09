@@ -219,6 +219,7 @@
         <module>ncwms</module>
         <module>gwc-sqlite</module>
         <module>geostyler</module>
+        <module>script</module>
         <module>security</module>
         <module>security/oauth2-core</module>
         <module>security/oauth2-google</module>
